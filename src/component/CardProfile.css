@@ -1,0 +1,66 @@
+.kartu {
+  display:inline-block;
+  margin-bottom: 20px;
+  background-color: #09234b;
+  width: 600px;
+  height: 230px;
+  border-radius: 30px;
+  align-items: center;
+  border-color: aliceblue;
+  margin-right: 20px;
+  
+}
+.gambar {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;    
+  justify-content: center;
+  flex-direction: row;
+}
+
+.PP {
+  width: 100px;
+  margin-top: 10px;
+  border-radius: 50%;
+  
+}
+
+.keterangan{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+       
+}
+
+#Nama {
+  color: white;
+  font-size: 19px;
+  font-weight: bold;
+  font-family: Verdana;
+  text-align: center;
+}
+
+#Universitas {
+  color: rgb(255, 255, 255);
+  font-family: Bebas Neue;
+  font-weight: bold;
+  font-size: 18px;
+  margin-top: 5px;
+  text-align: center;
+}
+#NIM{
+  color: rgb(187, 184, 184);
+  font-family: cairo;
+  font-weight: 500;
+  font-size: 18px;
+  margin-top: 5px;
+  text-align: center;
+}
+
+.garis{
+  margin-top: 5px;
+  width: 350px;
+  height: 3px;
+  background-color: aliceblue;
+  align-content: center;
+}
